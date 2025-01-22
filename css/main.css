@@ -315,24 +315,44 @@ ul.feauters-list li::before {
   background: #0042f8;
 }
 
-.skills-content .right .html::before {
-  width: 90%;
+.skills-content .right .ten::before {
+  width: 10%;
 }
 
-.skills-content .right .css::before {
-  width: 60%;
+.skills-content .right .twenty::before {
+  width: 20%;
 }
 
-.skills-content .right .js::before {
-  width: 80%;
+.skills-content .right .thirty::before {
+  width: 30%;
 }
 
-.skills-content .right .php::before {
+.skills-content .right .fourty::before {
+  width: 40%;
+}
+
+.skills-content .right .fifty::before {
   width: 50%;
 }
 
-.skills-content .right .mysql::before {
+.skills-content .right .sixty::before {
+  width: 60%;
+}
+
+.skills-content .right .seventy::before {
   width: 70%;
+}
+
+.skills-content .right .eighty::before {
+  width: 80%;
+}
+
+.skills-content .right .ninety::before {
+  width: 90%;
+}
+
+.skills-content .right .hundred::before {
+  width: 100%;
 }
 
 .testimonials-section {
